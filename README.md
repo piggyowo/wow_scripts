@@ -6,4 +6,4 @@
 https://qx.atlucky.me/
 
 ## 2️⃣QuantumultX 分流：
-* 自用 ChatGPT 分流 [*OpenAi.list*](https://raw.githubusercontent.com/ddgksf2013/Filter/master/OpenAi.list)
+* 自用 ChatGPT 分流 [*OpenAi.list*](https://github.com/piggyowo/wow_scripts/raw/main/Quantumultx/filter/OpenAI.snippet)
