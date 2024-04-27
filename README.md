@@ -1,12 +1,9 @@
-# wow_scripts
-备份自用分流及其他规则
+# 🧸 wow_scripts
+备份自用分流及其他规则,均来自网络，后期个人整合
 
-# 🧸 Emby
+## 1️⃣QuantumultX WIKI
+如果你是小白，建议先到此处了解一下Quantumultx
+https://qx.atlucky.me/
 
-## 前言
-
-![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) 
-
-Emby规则由《RULE GENERATOR 规则生成器》自动生成。
-
-分流规则是互联网公共服务的域名和IP地址汇总，所有数据均收集自互联网公开信息，不代表我们支持或使用这些服务。
+## 2️⃣QuantumultX 分流：
+* 自用 ChatGPT 分流 [*OpenAi.list*](https://raw.githubusercontent.com/ddgksf2013/Filter/master/OpenAi.list)
