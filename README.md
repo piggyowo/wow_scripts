@@ -6,4 +6,8 @@
 
 
 ## 2️⃣QuantumultX 分流：
-* 自用 ChatGPT 分流 [*OpenAi.list*](https://github.com/piggyowo/wow_scripts/raw/main/Quantumultx/filter/OpenAI.snippet)
+*  ChatGPT 分流 [*OpenAi.list*](https://github.com/piggyowo/wow_scripts/raw/main/Quantumultx/filter/OpenAI.snippet)
+* 电报分流 [*Telegeam.list*](https://github.com/piggyowo/wow_scripts/blob/main/Quantumultx/filter/Telegram.list)
+* 自用 Emby 分流 [*Emby.list*](https://github.com/piggyowo/wow_scripts/raw/main/Quantumultx/filter/Emby.snippet)
+* 苹果服务（直连）[*Apple.list*](https://github.com/piggyowo/wow_scripts/blob/main/Quantumultx/filter/Apple.list)
+* WeChat（直连）[*WeChat.list*](https://github.com/piggyowo/wow_scripts/blob/main/Quantumultx/filter/WeChat.list)
