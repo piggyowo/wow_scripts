@@ -7,14 +7,23 @@ HOST-SUFFIX,emby.aca.best,Emby
 #Misakaf
 HOST-SUFFIX,misakaf.org,Emby
 HOST-SUFFIX,cloudfront.net,Emby
+#Misakaf 公费服CFT直连
+HOST-SUFFIX,cloudfront.net,Emby
+
 #田小瑞
 HOST-SUFFIX,txrui.top,Emby
 
-
+#纸片人
 HOST-SUFFIX,embyplus.org,Emby
 HOST-SUFFIX,embyplus.club,Emby
-HOST-SUFFIX,trakt.tv,Emby
+#纸片人播放流
+HOST-SUFFIX,9521732.xyz,Emby
+
+#nyamedia
 HOST-SUFFIX,bangumi.ca,Emby
+
+#infuse Trakt登录接口
+HOST-SUFFIX,trakt.tv,Emby
 
 
 
