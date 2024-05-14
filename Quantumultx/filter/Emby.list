@@ -23,7 +23,9 @@ HOST-SUFFIX,9521732.xyz,Emby
 HOST-SUFFIX,bangumi.ca,Emby
 
 #infuse Trakt登录接口
-HOST-SUFFIX,trakt.tv,Emby
 
+#paul服
+HOST-SUFFIX,cf.imetyou.top,Emby
 
-
+#treediagram
+HOST-SUFFIX,789.123456.al,Emby
