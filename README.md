@@ -11,4 +11,6 @@
 * 自用 Emby 分流 [*Emby.list*](https://github.com/piggyowo/wow_scripts/raw/main/Quantumultx/filter/Emby.snippet)
 * 苹果服务（直连）[*Apple.list*](https://github.com/piggyowo/wow_scripts/blob/main/Quantumultx/filter/Apple.list)
 * WeChat（直连）[*WeChat.list*](https://github.com/piggyowo/wow_scripts/blob/main/Quantumultx/filter/WeChat.list)
+
+## Stash
 * lucky stash配置[*Stash.yaml*](https://github.com/Repcz/Tool/blob/X/Stash/Stash.yaml)
